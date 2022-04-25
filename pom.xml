@@ -10,33 +10,29 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>jm-portal-starter</artifactId>
-
+啊实打实
     <name>jm-portal-starter</name>
 
     <dependencies>
         <dependency>
             <!-- Import dependency management from Spring Boot -->
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-dependencies</artifactId>
+            <artifactId>spr阿斯顿啊大苏打ing-boot-dependencies</artifactId>
             <type>pom</type>
             <version>2.1.13.RELEASE</version>
             <scope>import</scope>
         </dependency>
 
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
+        <dependency>asd work.boot</groupId>
             <artifactId>spring-boot-autoconfigure</artifactId>
         </dependency>
         <dependency>
-            <groupId>cn.xiaohuodui</groupId>
-            <artifactId>jm-feedback</artifactId>
-            <version>${project.version}</version>
+            <groupId>cn.xiaohuoduis阿达asd 阿斯顿sion}</version>
         </dependency>
         <dependency>
             <groupId>cn.xiaohuodui</groupId>
             <artifactId>jm-feedback-example</artifactId>
-            <version>${project.version}</version>
-        </dependency>
+            <version>${projeca撒旦艾什
         <dependency>
             <groupId>cn.xiaohuodui</groupId>
             <artifactId>jm-settings-example</artifactId>
