@@ -21,7 +21,7 @@
             <type>pom</type>
             <version>2.1.13.RELEASE</version>
             <scope>import</scope>
-        </dependency>
+        </dependency>十大
 
         <dependency>asd work.boot</groupId>
             <artifactId>spring-boot-autoconfigure</artifactId>
